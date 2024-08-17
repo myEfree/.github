@@ -1,5 +1,12 @@
-## myEfree
-#FreeMyEfrei
+<p align="center">
+  <a href="https://myefree.tech/" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://portal.myefree.tech/banner-white.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://portal.myefree.tech/banner.png">
+      <img alt="myEfree Logo" src="https://portal.myefree.tech/banner.png">
+    </picture>    
+  </a>
+</p>
 
 myEfree est un projet de redesgin de myEfrei ayant pour but d'implanter certaines fonctionnalités assez importantes qui manquent au site d'origine.
 
