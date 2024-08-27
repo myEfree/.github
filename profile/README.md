@@ -9,6 +9,7 @@
 
   <p align="center">
     <a href="https://portal.myefree.tech" target="_blank"><img src="https://img.shields.io/badge/Acc%C3%A9der_%C3%A0-myEfree-7B46A5?style=for-the-badge" alt="Portail myEfree"></a>
+    <a href="https://testflight.apple.com/join/J4nJtCqM"><img src="https://img.shields.io/badge/Download_iOS-TestFlight-blue?style=for-the-badge&logo=apple" alt="TestFlight" /></a>
     <a href="https://discord.com/invite/9k3arFeWCY" target="_blank"><img src="https://img.shields.io/discord/1204061293175111720?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=5865F2" alt="Discord" /></a>
   </p>
 </p>
